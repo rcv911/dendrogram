@@ -5,7 +5,7 @@
 It's one of the clustering methods using [hierarchical clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering).
 We are going to use [special Scipy library](https://docs.scipy.org/doc/scipy/reference/cluster.hierarchy.html) for Python where you can find
 useful function for clustering analysis saving your time. 
-This special Scipy library in [GitHub].(https://github.com/scipy/scipy/blob/master/scipy/cluster/hierarchy.py)
+This special Scipy library in [GitHub.](https://github.com/scipy/scipy/blob/master/scipy/cluster/hierarchy.py)
 
 >We are going to use this 2 data from this [project](https://github.com/rcv911/Cluster_generation) but changing some parameters: 
 ![](images/cluster_test_data0.png)
